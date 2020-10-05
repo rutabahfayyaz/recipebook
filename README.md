@@ -1,3 +1,8 @@
+This project is a Recipe Book, a front-end Angular application, that is primarily based on two core modules i.e the recipes section and the shopping-list section. In the recipes section, the user is able to browse through a list of recipes comprising their images, description, and ingredients. If desired, more recipes can be added and modified or deleted as desired. 
+Now you must be wondering what's the purpose of a shopping-list in a Recipe Book? 
+Whilst browsing the recipes, the user might as well be thinking about what next to make for lunch or dinner. So there the user can easily move the ingredients of a particular recipe into the shopping-list.  So, the shopping-list is solely there to remind the user about the ingredients to purchase when users next visit the mart.
+
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
